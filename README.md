@@ -2,7 +2,7 @@
 
 ![Image](SpamTextWarning.png)
 
-This text message is very similar to messages that Mary Anne has received.
+This text message is very similar to messages that Mary Anne has received. Currently her iPhone offers no warning that the links in these kinds of messages could be dangerous. Our idea is to display a warning in the space next to the text message itself with a clear message and a link to more detailed information.
 
 ### Resources
 - [Block, filter, and report messages on iPhone](https://support.apple.com/guide/iphone/block-filter-and-report-messages-iph203ab0be4/ios): Learn to block texts on iPhone.
