@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Warnings for Spam Text Messages
 
-You can use the [editor on GitHub](https://github.com/msmart14/SpamTextWarning/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![Image](src)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This text message is very similar to messages that Mary Anne has received.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/msmart14/SpamTextWarning/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Resources
+- [Block, filter, and report messages on iPhone](https://support.apple.com/guide/iphone/block-filter-and-report-messages-iph203ab0be4/ios): Learn to block texts on iPhone.
+- [How To Block Texts on an Android Device](https://www.alphr.com/android-block-texts/): Learn to block texts on Android.
+- [have i been pwned?](https://haveibeenpwned.com/): Learn whether your information (e.g. phone number) has been leaked in a major hack.
+- [Miro](Avoid unwanted calls on iPhone): This is the tool we used to make our mockup.
