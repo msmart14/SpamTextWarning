@@ -1,6 +1,6 @@
 ## Warnings for Spam Text Messages
 
-![Image](https://github.com/msmart14/SpamTextWarning/blob/main/SpamTextWarning.png)
+![Image](SpamTextWarning.png)
 
 This text message is very similar to messages that Mary Anne has received.
 
